@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@svgdotjs/svg.js": "^3.2.4",
-    "hono": "4.7.5",
+    "hono": "4.12.18",
     "nostr-tools": "^2.12.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
